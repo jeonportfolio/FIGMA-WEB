@@ -571,6 +571,7 @@
     text-overflow: ellipsis;
     padding-top: 80px;
     position: relative;
+    color: #ba2929;
 }
 
 .text_title::before {
@@ -614,7 +615,12 @@
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    color: #666;
+    color: #000;
+}
+
+.text_desc1 {
+    color: #787676;
+
 }
 .text_btn {
     font-size: 16px;
