@@ -522,13 +522,13 @@
 .banner_inner .desc a {
     display: block;
     font-size: 28px;
+    color: #ba2929;
+    text-decoration: underline;
+    font-weight: 400;
+    margin-top: 50px;
 }
 
-.banner_inner .small {
-    text-decoration: underline;
-    font-size: 24px;
-    font-weight: 300;
-}
+
 
 
 /* textType */
